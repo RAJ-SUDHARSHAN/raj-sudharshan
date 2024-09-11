@@ -2,20 +2,20 @@
   <img src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" alt="Mario Pixel Art" height="250px" width="600px">
 </p>
 <h1 align="center">Hi 👋, I'm Raj Sudharshan</h1>
-<h3 align="center">AWS Certified Solutions Architect & Software Developer</h3>
+<h3 align="center">AWS Certified Solutions Architect & Full-stack Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raj-sudharshan&label=Profile%20views&color=0e75b6&style=flat" alt="raj-sudharshan" />
   <img src="https://img.shields.io/github/stars/raj-sudharshan?label=Stars" alt="GitHub User's stars" >
 </p>
 
-- 🎓 An IS graduate from Northeastern University 
-- 💻 Skilled in **Python, Django, Flask, and Cloud Technologies**
-- 🚀 Immersing myself in the art of System Design. 
-- 📚 More interested in Backend technologies.
-- 💪 **Future Goals:**
-  - Dedicate more time to contributing to Open-Source technologies.
-  - Learn GoLang as a low-latency language.
+- 🎓 **Software Developer** with 5+ years of experience specializing in backend development, system architecture, and cloud computing.
+- 💻 Expertise in **Python, Django, Flask, FastAPI**, and a wide range of **Cloud Technologies** including AWS, GCP, and Azure.
+- 🚀 Passionate about **System Design** and delivering efficient, scalable solutions.
+- 📚 Focused on mastering **Backend technologies** and architecting high-performance applications.
+- 💡 **Future Goals**:
+  - Contribute actively to **Open-Source** projects.
+  - Learn **GoLang** for building low-latency systems.
 - 📄 Know about my experiences - [rajs.dev](https://rajs.dev/)
 - 👨‍💻 All of my projects are available at [raj-sudharshan](https://github.com/raj-sudharshan)
 
@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,aws,firebase,html,css,javascript,react,postgresql,mongodb,linux,docker,flutter,git,redis,nginx,heroku,gcp&theme=dark)](https://skillicons.dev)
 </p>
 
-## ⚙️ GitHub Analytics
+## 📊 GitHub Stats & Insights
 <p align="center">
   <a href="https://github.com/raj-sudharshan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sudharshan&layout=compact&langs_count=8&theme=algolia"/>
@@ -39,6 +39,6 @@
   </a>
 </p>
 
-## ⚡ Recent GitHub Activity
+## 🔥 Recent GitHub Activity
 
 [![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raj-sudharshan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
