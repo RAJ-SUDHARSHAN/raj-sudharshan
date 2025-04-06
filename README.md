@@ -10,7 +10,7 @@
 </p>
 
 - 🎓 **Software Developer** with 5+ years of experience specializing in backend development, system architecture, and cloud computing.
-- 💻 Expertise in **Python, Django, Flask, FastAPI**, and a wide range of **Cloud Technologies** including AWS, GCP, and Azure.
+- 💻 Expertise in **Python, Typescript, NestJS, Next.js, Django, Flask, FastAPI, Redis**, and a wide range of **Cloud Technologies** including AWS, GCP, and Azure.
 - 🚀 Passionate about **System Design** and delivering efficient, scalable solutions.
 - 📚 Focused on mastering **Backend technologies** and architecting high-performance applications.
 - 💡 **Future Goals**:
